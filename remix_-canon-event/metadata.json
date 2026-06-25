@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Canon Event",
+  "description": "An AI-powered productivity companion that predicts future consequences of procrastination and helps users take action before deadlines become disasters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
